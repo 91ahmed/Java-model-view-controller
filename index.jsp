@@ -5,6 +5,6 @@
 		<title>Java Test</title>
 	</head>
 	<body>
-		<h1>Welcome To Java</h1>
+		<h1>Welcome To Java :)</h1>
 	</body>
 </html>
